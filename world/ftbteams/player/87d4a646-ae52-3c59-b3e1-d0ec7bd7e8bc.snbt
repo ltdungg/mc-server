@@ -1,0 +1,17 @@
+{
+	id: "87d4a646-ae52-3c59-b3e1-d0ec7bd7e8bc"
+	type: "player"
+	player_name: "ltdunggg"
+	ranks: {
+		87d4a646-ae52-3c59-b3e1-d0ec7bd7e8bc: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "ltdunggg"
+		"ftbteams:description": ""
+		"ftbteams:color": "#63FF59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

@@ -1,0 +1,17 @@
+{
+	id: "3e27eeae-33d0-39b1-9ec1-df1dffd505be"
+	type: "player"
+	player_name: "Lil_JiB"
+	ranks: {
+		3e27eeae-33d0-39b1-9ec1-df1dffd505be: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Lil_JiB"
+		"ftbteams:description": ""
+		"ftbteams:color": "#8059FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

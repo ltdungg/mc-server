@@ -1,0 +1,17 @@
+{
+	id: "013d9784-fdc7-3964-99cc-c0f2e3dc17fc"
+	type: "player"
+	player_name: "Folotino"
+	ranks: {
+		013d9784-fdc7-3964-99cc-c0f2e3dc17fc: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Folotino"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FFD159"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
